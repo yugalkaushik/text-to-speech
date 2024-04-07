@@ -1,6 +1,6 @@
 # TALKIFY - text to speech convertor
 
-Welcome to the Text to Speech Website! This web application allows users to convert text input into spoken language. With a simple and intuitive interface, users can easily enter text, select a voice, and listen to the synthesized speech output.
+Welcome to the Talkify Website! This web application allows users to convert text input into spoken language. With a simple and intuitive interface, users can easily enter text, select a voice, and listen to the synthesized speech output.
 
 ## Features
 
