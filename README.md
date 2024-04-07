@@ -7,7 +7,6 @@ Welcome to the Talkify Website! This web application allows users to convert tex
 Text Input: Users can input text into the provided textarea.<br>
 Voice Selection: Users can choose from a variety of available voices for the speech output.<br>
 Speech Conversion: The application converts the entered text into speech with the click of a button.<br>
-Pause/Resume Functionality: Users can control the speech playback by pausing or resuming it as needed.<br>
 Responsive Design: The website is designed to be responsive, ensuring a seamless experience across different devices and screen sizes.<br>
 
 ## Getting Started
