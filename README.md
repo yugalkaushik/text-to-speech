@@ -24,3 +24,14 @@ HTML5<br>
 CSS3<br>
 JavaScript<br>
 Web Speech API<br>
+
+## Setup
+To run this project locally, follow these steps:<br>
+
+Clone the repository: git clone https://github.com/yugalkaushik/weather-website.git<br>
+Open the project directory in your code editor.<br>
+Replace [API_KEY] in the JavaScript file with your actual API key.<br>
+Open index.html in a web browser.<br>
+
+## Contribution
+Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to create an issue or open a pull request.
